@@ -1,2 +1,2 @@
-# FIRST PROJECT IN SPRING BOOT
+# First Project in SpringBoot
 - Learning how to use springboot
